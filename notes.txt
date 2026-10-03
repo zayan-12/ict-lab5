@@ -1,2 +1,5 @@
 Git is a distributed version control system used to track changes in files and help developers work together on software projects.
 Git allows developers to manage project history and collaborate efficiently.
+GitHub Collaboration
+
+GitHub allows developers to store repositories online and collaborate using branches and pull requests.
